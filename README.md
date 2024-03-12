@@ -20,9 +20,9 @@ This script implements a simple music player GUI using Tkinter in Python. The pl
 **Using the Music Player**:
 
    - Upon running the script, a window titled "Music Player" will appear.
-   - Press the ⏏ button to select a directory containing music files.
+   - Press the ⏏️ button to select a directory containing music files.
    - Select the song in the dropdown menu once the songs are loaded in the application.
-   - Once songs are loaded, use the ⏵ button to play a selected song, ⏸ button to stop the current song.
+   - Once songs are loaded, use the ▶️ button to play a selected song, ⏸️ button to stop the current song.
    - The progress bar displays the current progress of the playing song.
    - While a song is playing, a rainbow-colored effect will be displayed on the progress bar.
 
